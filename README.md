@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zahra
 - 👀 I’m interested in the world of automation
 - 🌱 I’m currently learning the DevOps automation Tools
-- 💞️ I’m looking to collaborate on a project 
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me zahrasohaib@icloud.com
 
 <!---
