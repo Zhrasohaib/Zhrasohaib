@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhrasohaib
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning DevOps Tools
+- 👀 I’m interested in the world of automation
+- 🌱 I’m currently learning the DevOps Tools
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me zahrasohaib@icloud.com
 
